@@ -180,5 +180,5 @@ def process_file(input_file, output_file):
 
 if __name__ == "__main__":
     input_file = "source/input.wav"
-    output_file = "output_stepped_wah.wav"
+    output_file = "source/output_stepped_wah.wav"
     process_file(input_file, output_file)
